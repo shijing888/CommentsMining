@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/stanford-chinese-corenlp-2016-10-31-models.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-3.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-3.6.0-models.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-3.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-3.6.0.jar" sourcepath="C:/Users/shijing/.m2/repository/edu/stanford/nlp/stanford-corenlp/3.6.0/stanford-corenlp-3.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="lib/javax.json-api-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/javax.json.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.9-sources.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time.jar"/>
+	<classpathentry kind="lib" path="lib/jollyday-0.4.7-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jollyday.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="lib/xom-1.2.10-src.jar"/>
+	<classpathentry kind="lib" path="lib/xom.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
